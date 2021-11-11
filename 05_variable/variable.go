@@ -6,7 +6,7 @@ func main() {
 	var name string
 
 	name = "Eric Julianto"
-	fmt.Println(name)
+	fmt.Println("Nama: ", name)
 
 	var pekerjaan = "Developer"
 	var umur = 20
